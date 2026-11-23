@@ -14,7 +14,7 @@ permalink: /cn/
 
 2025年9月，加入中国人民大学周峰课题组，2025104153，三年+新旅程。[[课题组合照]](/assets/people_0912.jpg)
 
-2025年8月，参与 CWIM 调研银川、吴忠水资源问题。[[杂谈]](/assets/Ningxia.pdf)
+2025年8月，参与 CWIM 调研银川、吴忠水资源。[[杂谈]](/assets/Ningxia.pdf)
 
 2025年5月，随大爱清尘探访山西代县尘肺病农民。[[杂谈]](/assets/Shanxi.pdf)
 
