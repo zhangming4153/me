@@ -1,0 +1,31 @@
+email: jonnierzhang@foxmail.com
+
+url: "https://zhangming4153.github.io"
+baseurl: ""
+
+keywords: statistics, machine learning, temporal point process, AI, causal inference
+description: Ming Zhang is a Master's student in Statistics at Renmin University of China.
+canonical: https://zhangming4153.github.io/
+
+avatar: /assets/img/profile_horse.jpg
+favicon:
+favicon_dark:
+
+enable_footnote: false
+auto_dark_mode: true
+font: "Serif"
+
+google_analytics: G-0DKF7N1ZZH
+
+remote_theme: yaoyao-liu/minimal-light
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/

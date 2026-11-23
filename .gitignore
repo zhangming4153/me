@@ -1,0 +1,11 @@
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+.DS_Store
+.jekyll-cache
+git-update.sh
+
+.DS_Store
+__MACOSX/
+zhangming4153.github.io/
